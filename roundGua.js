@@ -1,5 +1,4 @@
 
-
 		function roundLaser(){
 			$('.left').animate({"height" : "100%", "width" : "1px"},150, function(){
 					$('.bottom').animate({"width" : "239px", "height" : "1px"},90, function(){
